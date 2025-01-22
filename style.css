@@ -517,6 +517,9 @@
                 text-align: center;
                 padding: 0;
             }
+            .footer-list-socil{
+                display: flex;
+            }
 
             .bg-footer {
                 padding: 5px;
@@ -527,6 +530,9 @@
             .footer-list-container {
                 flex-direction: column;
 
+            }
+            .footer-list-socil{
+                flex-direction: row;
             }
             
         }
